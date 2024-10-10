@@ -1,0 +1,6 @@
+In part I of the assignment, Gaetan Fodjo 101273973 performed the completion of parts A) to D) (A, B, C, D), and Shifat Ghazi 101265285 
+performed the completion of parts E) to F) (E, F, G, H). In part II of the assignment, the coding portion was completed as a team. Whether 
+it was implementing the methodology to perform testing the shell files from the main file from a different folder and working inside the 
+terminal or working solely with the main file and header file, each member worked together to develop the coding aspect. In part II of 
+the short report, Shifat Ghazi 101265285 completed questions 1 and 2, and Gaetan Fodjo 101273973 completed question 3 with the addition 
+of the python script for question (Statement) 4.
